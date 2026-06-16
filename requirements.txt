@@ -1,9 +1,6 @@
 streamlit
+pandas
+numpy
+scikit-learn
 plotly
-pandas==2.2.2
-numpy==1.26.4
-scikit-learn==1.4.2
-scipy==1.13.1
-cloudpickle==3.0.0
-xgboost==2.0.3
-mlflow==2.13.0
+joblib
