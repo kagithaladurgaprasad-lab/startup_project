@@ -55,7 +55,7 @@ VentureIQ helps entrepreneurs, venture capitalists, startup incubators, and busi
 
 ## Author
 
-**K Chintu**
+**K.Durga Prasad**
 
 Machine Learning Engineer | Data Science Enthusiast
 
